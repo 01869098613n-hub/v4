@@ -1,0 +1,8 @@
+{
+  "name": "APEX CASINO: Dragon Tiger P2P",
+  "description": "High-stakes Dragon Tiger P2P arena with real-time multiplayer rooms, transparency charter, and secure wallet integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
